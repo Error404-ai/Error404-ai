@@ -2,8 +2,7 @@
 <h3 align="center">Backend Developer | Node.js Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Error404-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Error404-ai" /></p>
 
 - 🎓 B.Tech in Computer Science @ Ajay Kumar Garg Engineering College, Ghaziabad (CGPA: 8.7/10)
 - 💼 Backend Developer Intern @ **Unfluke**, Noida — building and optimizing RESTful APIs with Node.js & Express.js
