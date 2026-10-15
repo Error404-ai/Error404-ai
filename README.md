@@ -2,17 +2,16 @@
 <h3 align="center">Backend Developer | Node.js Engineer</h3>
 
 <p align="center">
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DError404-ai&query=%24.count&label=Profile%20views)
+  <img src="https://komarev.com/ghpvc/?username=Error404-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🎓 B.Tech in Computer Science @ Ajay Kumar Garg Engineering College, Ghaziabad (CGPA: 8.7/10)
-- 💼 Backend Developer Intern @ **Unfluke**, Noida — building and optimizing RESTful APIs with Node.js & Express.js
-- 🚀 Coordinator & Backend Developer @ **Team Conatus** (Programming Club) — leading 45 members, mentoring 10+ juniors
-- 🔭 Currently building **Learnova** — a Learning Management System with JWT auth, RBAC, and real-time WebSocket messaging
+- 💼 Backend Developer Intern @ Unfluke, Noida — building and optimizing RESTful APIs with Node.js & Express.js
+- 🚀 Coordinator & Backend Developer @ Team Conatus (Programming Club) — leading 45 members, mentoring 10+ juniors
+- 🔭 Currently building Learnova — a Learning Management System with JWT auth, RBAC, and real-time WebSocket messaging
 - 🧩 Solved 250+ DSA problems across competitive platforms
 - 🏆 Codeforces max rating 882 · CodeChef 2★ (max rating 1431)
-- 📫 Reach me at **tanisha4bhatt@gmail.com**
-
+- 📫 Reach me at tanisha4bhatt@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanisha-bhatt-927315303/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
@@ -37,7 +36,6 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<br/>
 
 <h3 align="left">Featured Projects:</h3>
 
@@ -59,7 +57,6 @@
 &nbsp;&nbsp;&nbsp;Secure API for 100+ tracks with auth, playlists, and search; 99.9% uptime with 20+ Postman test cases.
 </p>
 
-<br/>
 
 <p align="center">
   <img src="https://github-readme-stats-indol-xi-63.vercel.app/api?username=Error404-ai&show_icons=true&theme=radical&count_private=true" alt="Tanisha's github stats" width="48%"/>
