@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Node.js Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Error404-ai&label=Profile%20views&color=0e75b6&style=flat&base=174" alt="Profile views" />
+  <img src="https://hits.sh/github.com/Error404-ai.svg?style=flat&label=Views%20(since%20387)&color=0e75b6" alt="Profile views" />
 </p>
 
 - 🎓 B.Tech in Computer Science @ Ajay Kumar Garg Engineering College, Ghaziabad (CGPA: 8.7/10)
