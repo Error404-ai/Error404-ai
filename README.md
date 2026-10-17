@@ -59,12 +59,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-indol-xi-63.vercel.app/api?username=Error404-ai&show_icons=true&theme=radical&count_private=true" alt="Tanisha's github stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Error404-ai&theme=radical" alt="Tanisha's streak stats" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-indol-xi-63.vercel.app/api/top-langs/?username=Error404-ai&layout=compact&theme=radical" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Error404-ai&theme=radical" alt="Tanisha's streak stats" width="60%"/>
 </p>
 
 <p align="center">
