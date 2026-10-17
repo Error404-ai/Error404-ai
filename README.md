@@ -8,7 +8,7 @@
 - 🎓 B.Tech in Computer Science @ Ajay Kumar Garg Engineering College, Ghaziabad (CGPA: 8.7/10)
 - 💼 Backend Developer Intern @ Unfluke, Noida — building and optimizing RESTful APIs with Node.js & Express.js
 - 🚀 Coordinator & Backend Developer @ Team Conatus (Programming Club) — leading 45 members, mentoring 10+ juniors
-- 🔭 Currently building Learnova — a Learning Management System with JWT auth, RBAC, and real-time WebSocket messaging
+- 🔭 Currently building ExamShield AI — an AI-powered online exam proctoring system using FastAPI, OpenCV, MediaPipe, and machine learning to detect suspicious         activities during online exams.
 - 🧩 Solved 250+ DSA problems across competitive platforms
 - 🏆 Codeforces max rating 882 · CodeChef 2★ (max rating 1431)
 - 📫 Reach me at tanisha4bhatt@gmail.com
